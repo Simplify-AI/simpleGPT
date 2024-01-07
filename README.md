@@ -1,1 +1,2 @@
-simpleGPT - a simple redefined architecture to build efficient RAG application
+simpleGPT - "SimpleGPT: Redefining Architecture for Efficient RAG Application Development"
+
